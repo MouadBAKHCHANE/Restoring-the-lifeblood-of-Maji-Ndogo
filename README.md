@@ -35,5 +35,6 @@ Part 3: In this third part of the integrated project, I finalized the national s
 
 Part 4: In this final part of the project, I used all the skills acquired in the course to build a public dashboard. My mission was to communicate with transparency: Where did the money go? I tracked the total budget against project completion, monitored teams' performance, and compared budgeted versus actual costs to flag potential corruption, promoting transparency and accountability in addressing Maji Ndogo’s water crisis.
 
+![schema_MAGINDOGO_project](https://github.com/MouadBAKHCHANE/Restoring-the-lifeblood-of-Maji-Ndogo/assets/142126299/b5ba899a-36de-4735-b7aa-cf4852d56508)
 
 
