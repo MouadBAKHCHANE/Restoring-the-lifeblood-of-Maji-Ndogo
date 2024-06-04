@@ -5,7 +5,7 @@ That's one of the best projects I have ever done using SQL and Power BI.
 Firstly, here are the links to the dashboards: \
 Dashboard Part 1: https://app.powerbi.com/view?r=eyJrIjoiNDk5ZDNiNjYtYzcyZS00YWFmLWJiZmQtNDcxYjAwYmJkNDQ1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9  \
 Dashboard Part 2&3: https://app.powerbi.com/view?r=eyJrIjoiN2U3Yzc3YWQtMTRkNS00NDY1LWExZjYtYWRiMjkwMGFmZDAyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9  \
-Dashboard Part 4: https://app.powerbi.com/view?r=eyJrIjoiZTY2OTU4MTktNjM0YS00Njg3LTg4ZGItMWQzNGNiZDY0ZDEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9  \
+Dashboard Part 4: https://app.powerbi.com/view?r=eyJrIjoiZTY2OTU4MTktNjM0YS00Njg3LTg4ZGItMWQzNGNiZDY0ZDEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9  
 
 In Maji Ndogo and worldwide, access to clean and reliable water sources is a fundamental aspect of daily life. The data collected on water sources, water collection, and crime in Maji Ndogo provided me with a deeper understanding of the daily life of its inhabitants and the critical role water plays in their lives.
 
